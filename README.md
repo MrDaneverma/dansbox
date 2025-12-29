@@ -1,32 +1,24 @@
-# BeepBox
+# Dansbox
 
-BeepBox is an online tool for sketching and sharing instrumental melodies.
-Try it out [here](https://www.beepbox.co)!
+В оригинале Beepbox, я сделол перевод для тех кто хочет вкатится, но не
+знает английский.
+DansBox это онлайн тулза для написания и распространения инструментальных мелодий.
+тут скоро будет ссылка когда доделаю [ы](https://owlprog.ru)!
 
-All song data is packaged into the URL at the top of your browser. When you make
-changes to the song, the URL is updated to reflect your changes. When you are
-satisfied with your song, just copy and paste the URL to save and share your
-song!
+Вся музыка находится в ссылке на страницу, шо удобно. Когда
+ты пишешь музыку, URL изменяется. Когда ты дописал музон, ты просто
+можешь поделится ссылкой? Не верх ли удобства?
 
-BeepBox is a passion project, and will always be free to use. If you find it
-valuable and have the means, any gratuity via
+BeepBox был проектом бесплатным и всегда им будет. Задонать оригинальным
+создателям бипбокса если хочешь!
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QZJTX9GRYEV9N&currency_code=USD)
-would be appreciated!
 
-BeepBox is developed by [John Nesky](https://johnnesky.com/). This source code
-is available under the [MIT license](LICENSE.md).
-
-## Synthesizer library
-
-You can use BeepBox's synthesizer to play music in your own web app! See
-[the npm package](https://www.npmjs.com/package/beepbox) for more details.
+BeepBox был разработан [Джоном Нески](https://johnnesky.com/).
+В (LICENSE.md) наврали, исходники я никому не отдам.
 
 ## Compiling
 
-The code is written in TypeScript, which requires Node & npm so
-[install those first](https://nodejs.org/en/download). To contribute changes,
-you'll also need [git](https://github.com/git-guides/install-git). Then to build
-this project, open the command line and run:
+Код написян в TypeScript, я его не знаю а тока перевожу
 
 ```
 git clone https://github.com/johnnesky/beepbox.git
